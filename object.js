@@ -1,0 +1,1 @@
+// nevaru izdomāt , neatkārtoju funkcijas 
