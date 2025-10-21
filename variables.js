@@ -1,4 +1,12 @@
-const string = "PT2025";
-const number = "23";
-const boolean = false ;
-euler = 2.178 ;
+//const string = "PT2025";
+//const number = "23";
+//const boolean = false ;
+//euler = 2.178 ;
+let groupName = "PT2025";
+let size = 25;
+let isActive = false;
+const EULER = 2.718;
+console.log(groupName);
+console.log(size);
+console.log(isActive);
+console.log(EULER);
